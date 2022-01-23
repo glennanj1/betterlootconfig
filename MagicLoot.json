@@ -1,6 +1,6 @@
 {
   "General Settings": {
-    "General Item List Multiplier (All items in the 'Manual Item Multipliers' List)": 1.0,
+    "General Item List Multiplier (All items in the 'Manual Item Multipliers' List)": 2.0,
     "Non Item List Multiplier (All items not listed in the 'Manual Item Multipliers' List)": 1.0,
     "Limit Multipliers to Stacksizes": true,
     "Multiply Blueprints": false,
