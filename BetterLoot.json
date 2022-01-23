@@ -67,8 +67,8 @@
   "Loot": {
     "enableHammerLootCycle": false,
     "hammerLootCycleTime": 3.0,
-    "lootMultiplier": 2,
-    "scrapMultiplier": 2
+    "lootMultiplier": 1,
+    "scrapMultiplier": 1
   },
   "Rarity": {
     "Override": {
